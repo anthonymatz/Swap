@@ -1,0 +1,9 @@
+Server version: Apache/2.2.22 (Ubuntu)
+Server built:   Feb 13 2012 01:37:27
+root       913  0.0  0.4  34016  6972 ?        Ss   22:24   0:00 /usr/sbin/apache2 -k start
+www-data   923  0.0  0.2  34040  3768 ?        S    22:24   0:00 /usr/sbin/apache2 -k start
+www-data   924  0.0  0.2  34040  3768 ?        S    22:24   0:00 /usr/sbin/apache2 -k start
+www-data   925  0.0  0.2  34040  3768 ?        S    22:24   0:00 /usr/sbin/apache2 -k start
+www-data   926  0.0  0.2  34040  3768 ?        S    22:24   0:00 /usr/sbin/apache2 -k start
+www-data   927  0.0  0.2  34040  3768 ?        S    22:24   0:00 /usr/sbin/apache2 -k start
+1000      2625  0.0  0.0   4364   836 tty1     S+   23:13   0:00 grep --color=auto apache
